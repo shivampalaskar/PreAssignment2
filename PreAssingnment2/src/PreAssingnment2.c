@@ -162,10 +162,10 @@ Using Conditional operator
 }
 */
 
-/*int main(void){
+int main(void){
 	int qty;
 	printf("Enter Quantity : ");
 	scanf("%d",&qty);
 	qty>50?printf("\nPrice = %.2f",(qty*5)*.85):qty>30?printf("\nPrice = %.2f",(qty*5)*.90):printf("\nPrice = %d",(qty*5));
-}*/
+}
 
